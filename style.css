@@ -1,0 +1,36 @@
+.form-check-input:checked{
+  background-color: black !important;
+  border-color: black !important;
+}
+
+
+/* ------ All Body Dark Korar Jonno Start Here CSS ------ */
+
+/* body{
+  transition: background-color .25s;
+  color: #0bceaf;
+  background: linear-gradient(to bottom right, #fff 25%, #fff 50%, black 75%, #01072a);
+  background-size: 300% 300%;
+  transition: background-position 2s;
+}
+  
+body:has(#flexSwitchCheckDefault:checked) {
+  background-position: 100% 100%;
+  color: red;
+} */
+
+/* ------ All Body Dark Korar Jonno End Here CSS ------ */
+
+
+#SecTion2{
+  transition: background-color .25s;
+  color: #0bceaf;
+  background: linear-gradient(to bottom right, #fff 25%, #fff 50%, black 75%, #01072a);
+  background-size: 300% 300%;
+  transition: background-position 2s;
+}
+  
+#SecTion2:has(#flexSwitchCheckDefault:checked) {
+  background-position: 100% 100%;
+  color: red;
+}
